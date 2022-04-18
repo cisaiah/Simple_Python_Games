@@ -16,11 +16,11 @@ The lesser number of guesses it takes to get the number, the better the player's
 This games works like the popular tic tac toe games of Xs and Os
 Use the keypads 1 to 9 to play
  
- #####  1 | 2 | 3
- #####  ----------
- #####  4 | 5 | 6
- #####  ----------
- #####  7 | 8 | 9
+ 1 | 2 | 3
+ ----------
+ 4 | 5 | 6
+ ----------
+ 7 | 8 | 9
 
 
 ### Black Jack Game
