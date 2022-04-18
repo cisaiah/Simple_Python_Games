@@ -1,7 +1,7 @@
 # Simple_Python_Games
 
 This repository contains games created using python
-
+ 
 ### Number Guessing Game
 In this game, the player has to guess a number the computer thinks of between 1 and 100.
 If the player's guess is more than 10 away from the number, the player will be COLD
@@ -10,19 +10,19 @@ The player will continue to guess until he guesses the number correctly
 If the player's new guess is farther from the number than his most recent guess, the player will be getting COLDER
 If the player's new guess is closer to the number than his most recent guess, the player will be getting WARMER
 The lesser number of guesses it takes to get the number, the better the player's performance
-
-
+ 
+ 
 ### Tic Tac Toe Game
 This games works like the popular tic tac toe games of Xs and Os
 Use the keypads 1 to 9 to play
  
- 1 | 2 | 3
- ----------
- 4 | 5 | 6
- ----------
- 7 | 8 | 9
-
-
+###### 1 | 2 | 3
+###### ----------
+###### 4 | 5 | 6
+###### ----------
+###### 7 | 8 | 9
+ 
+ 
 ### Black Jack Game
 The game involves a computer dealer and a human player
 By default, a player starts the game with $10,000 worth of chips. The player could wins more chips up to $50,000 or could lose some chips
